@@ -1,4 +1,6 @@
 # goployer
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGwonsooLee%2Fgoployer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGwonsooLee%2Fgoployer?ref=badge_shield)
+
 `goployer` is an application you can use for EC2 deployment. You can deploy in a blue/green mode. goployer only
 changes the autoscaling group so that you don't need to create another load balancer or manually attach autoscaling group to target group.
 <br><br>
@@ -285,3 +287,7 @@ stacks:
 ``` 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGwonsooLee%2Fgoployer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGwonsooLee%2Fgoployer?ref=badge_large)
